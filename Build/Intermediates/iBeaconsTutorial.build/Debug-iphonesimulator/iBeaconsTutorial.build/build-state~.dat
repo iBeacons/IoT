@@ -1,0 +1,440 @@
+TiBeaconsTutorial
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.pch iBeaconsTutorial/iBeaconsTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial normal i386
+cCopyStringsFile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/en.lproj/InfoPlist.strings iBeaconsTutorial/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Images.xcassets
+cProcessInfoPlistFile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Info.plist /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Info.plist
+cGenerateDSYMFile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial
+cTouch /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000526F35070000000000000176
+t1383019783
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005243FC6E00000000000003B5
+t1380187246
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526F345D00000000000001A0
+t1383019613
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+c00000000526F345F00000000000642C0
+t1383019615
+s410304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526F34600000000000445870
+t1383019616
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000526F346000000000000EC820
+t1383019616
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526F3462000000000088C680
+t1383019618
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526F34670000000001DB9910
+t1383019623
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005243FC9D0000000000000AC9
+t1380187293
+s2761
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.pch
+t1383061177
+s108472
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o
+t1383061177
+s65440
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o
+t1383061177
+s76264
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o
+t1383061177
+s70932
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o
+t1383061177
+s41140
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/iBeaconsTutorial.LinkFileList
+c00000000526FD6B600000000000003A9
+t1383061174
+s937
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o
+t1383061177
+s3732
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/assetcatalog_dependencies.txt
+t1383061181
+s486
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/assetcatalog_generated_info.plist
+t1383061181
+s585
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app
+t1383061184
+s306
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM
+t2
+s0
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Base.lproj/Main.storyboardc
+t1383061184
+s102
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Info.plist
+t1383061184
+s1079
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/PkgInfo
+t1383061184
+s8
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/en.lproj/InfoPlist.strings
+t1383061180
+s42
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial
+t1383061179
+s49776
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Base.lproj/Main.storyboard
+c00000000526FD6B6000000000000482A
+t1383061174
+s18474
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m
+c00000000526F9B6600000000000007EB
+t1383045990
+s2027
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m
+c00000000526FD6910000000000000B76
+t1383061137
+s2934
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m
+c00000000526FD20600000000000009C3
+t1383059974
+s2499
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m
+c00000000526F9B660000000000000204
+t1383045990
+s516
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Images.xcassets
+c00000000526F9B660000000000000088
+t1383045990
+s136
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/en.lproj/InfoPlist.strings
+c00000000526F9B66000000000000002D
+t1383045990
+s45
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Info.plist
+c00000000526F9B6600000000000004C6
+t1383045990
+s1222
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Prefix.pch
+c00000000526F9B660000000000000158
+t1383045990
+s344
+
+N/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m
+c00000000526F9B660000000000000162
+t1383045990
+s354
+
+CBuild AST from /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m
+r0
+
+CBuild AST from /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m
+r0
+
+CBuild AST from /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m
+r0
+
+CBuild AST from /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m
+r0
+
+CBuild AST from /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2d3ef5360e20b841^dd5f01370e20b841^---0#1#1#--18"Check dependencies36"5626ECEC-6B33-4C56-AE7B-4AF32364C41D-
+
+CCompileAssetCatalog /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Images.xcassets
+s404753980.006866
+e404753981.575381
+r1
+xCompileAssetCatalog
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/LaunchImage-700-568h@2x.png
+o/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/LaunchImage-568h@2x.png
+o/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app iBeaconsTutorial/Images.xcassets110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app iBeaconsTutorial/Images.xcassetsc9e7013c0e20b841^1895e43d0e20b841^-514"/* com.apple.actool.compilation-results *//Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/LaunchImage-700-568h@2x.png/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/LaunchImage-568h@2x.png/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@100"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Images.xcassets/0000000000000000^1315"CompileAssetCatalog Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app iBeaconsTutorial/Images.xcassets    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 6.0 --target-device iphone --compress-pngs --compile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Images.xcassets36"1A65CBD5-C688-426A-8772-88EE9E9E31AC-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404753977.313824
+e404753977.588824
+r1
+xCompileC
+xBuild/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m235"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o iBeaconsTutorial/IBTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileree7b50390e20b841^f0fc96390e20b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m0000000000000000^4204"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o iBeaconsTutorial/IBTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iisscc/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-generated-files.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-own-target-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-all-target-headers.hmap -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-project-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources/i386 -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources -F/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator -include /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.d --serialize-diagnostics /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.dia -c /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.m -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o36"BAFF88A6-193C-4305-9268-DBE67A1167D8-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404753977.314545
+e404753977.598506
+r1
+xCompileC
+xBuild/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m251"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o iBeaconsTutorial/IBTTrackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler86ae50390e20b841^043899390e20b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m0000000000000000^4252"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o iBeaconsTutorial/IBTTrackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iisscc/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-generated-files.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-own-target-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-all-target-headers.hmap -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-project-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources/i386 -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources -F/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator -include /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.d --serialize-diagnostics /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.dia -c /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTrackViewController.m -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o36"F3B83C33-9F1A-4ECF-8AA9-3F8529129EA0-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404753977.313493
+e404753977.695363
+r1
+xCompileC
+xBuild/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m257"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o iBeaconsTutorial/IBTTransmitViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f6250390e20b841^a706b2390e20b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m0000000000000000^4270"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o iBeaconsTutorial/IBTTransmitViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iisscc/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-generated-files.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-own-target-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-all-target-headers.hmap -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-project-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources/i386 -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources -F/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator -include /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.d --serialize-diagnostics /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.dia -c /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTTransmitViewController.m -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o36"DE18FD9F-FD99-4535-A686-84A9E97F312B-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404753977.313290
+e404753977.588544
+r1
+xCompileC
+xBuild/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m241"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o iBeaconsTutorial/IBTViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a4b50390e20b841^75cb96390e20b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m0000000000000000^4222"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o iBeaconsTutorial/IBTViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iisscc/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-generated-files.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-own-target-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-all-target-headers.hmap -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-project-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources/i386 -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources -F/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator -include /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.d --serialize-diagnostics /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.dia -c /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTViewController.m -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o36"62DDFC3E-DF84-4963-A878-87F48311A5FE-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CCompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404753977.589030
+e404753977.694288
+r1
+xCompileC
+xBuild/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/IBTAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m215"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o iBeaconsTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler31ea96390e20b841^01c0b1390e20b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m0000000000000000^4144"CompileC Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o iBeaconsTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iisscc/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-generated-files.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-own-target-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-all-target-headers.hmap -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-project-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources/i386 -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources -F/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator -include /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.dia -c /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/main.m -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o36"A5F5BD1A-774B-4F75-BAB0-FAC453617177-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CCompileStoryboard /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Base.lproj/Main.storyboard
+s404753980.006014
+e404753984.882858
+r1
+xCompileStoryboard
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard iBeaconsTutorial/Base.lproj/Main.storyboard61"CompileStoryboard iBeaconsTutorial/Base.lproj/Main.storyboard1aa3013c0e20b841^b403e2400e20b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Base.lproj/Main.storyboard0000000000000000^929"CompileStoryboard iBeaconsTutorial/Base.lproj/Main.storyboard    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Base.lproj/Main.storyboardc /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/Base.lproj/Main.storyboard36"68B1A3A2-ADAD-447E-91B2-C241B12850A7-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CCopyStringsFile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/en.lproj/InfoPlist.strings iBeaconsTutorial/en.lproj/InfoPlist.strings
+s404753980.005704
+e404753980.053335
+r1
+xCopyStringsFile
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/en.lproj/InfoPlist.strings
+xiBeaconsTutorial/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy iBeaconsTutorial/en.lproj/InfoPlist.strings144"CopyStringsFile Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/en.lproj/InfoPlist.strings iBeaconsTutorial/en.lproj/InfoPlist.stringse4be013c0e20b841^c1a70d3c0e20b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/en.lproj/InfoPlist.strings0000000000000000^671"CopyStringsFile Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/en.lproj/InfoPlist.strings iBeaconsTutorial/en.lproj/InfoPlist.strings    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/en.lproj -- iBeaconsTutorial/en.lproj/InfoPlist.strings36"AF9F5FEC-EC36-4F2A-99FB-08DEF64A557B-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CGenerateDSYMFile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial
+s404753984.886450
+e404753984.966291
+r1
+xGenerateDSYMFile
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generate /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM154"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial23f9e2400e20b841^2860f7400e20b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM00347c1bdfffdf42^778"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app.dSYM36"7BDBC9E1-CF18-432E-8078-839DC28FDC47-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CLd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial normal i386
+s404753977.696715
+e404753980.004333
+r1
+xLd
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial
+xnormal
+xi386
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/iBeaconsTutorial.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTViewController.o
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTransmitViewController.o
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTAppDelegate.o
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/IBTTrackViewController.o
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Link /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial89"Ld Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial normal i386f777b2390e20b841^e31c013c0e20b841^---0#0#1#--1654"Ld Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial normal i386    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator -F/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator -filelist /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/iBeaconsTutorial.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework CoreLocation -framework CoreBluetooth -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/Objects-normal/i386/iBeaconsTutorial_dependency_info.dat -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/iBeaconsTutorial36"5EB953F0-1C1E-4A4A-AC53-8F2850A9EF8F-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CProcessInfoPlistFile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Info.plist /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Info.plist
+s404753984.883402
+e404753984.886058
+r1
+xProcessInfoPlistFile
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Info.plist
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Process /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Info.plist134"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Info.plist iBeaconsTutorial/iBeaconsTutorial-Info.plist0038e2400e20b841^fed6e2400e20b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Info.plist0000000000000000^1068"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Info.plist iBeaconsTutorial/iBeaconsTutorial-Info.plist    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Info.plist -genpkginfo /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/assetcatalog_generated_info.plist -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app/Info.plist36"860C5396-04E2-4796-8A2D-0A1F370EDA13-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CProcessPCH /Users/iisscc/Library/Developer/Xcode/DerivedData/iBeaconsTutorial-bycsyvbzsthboggzwtyjjxbuwnxu/Index/PrecompiledHeaders/iBeaconsTutorial-Prefix-gbfxzpenoofvnyfpflcnesguodkb_ast/iBeaconsTutorial-Prefix.pch.pch iBeaconsTutorial/iBeaconsTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/iisscc/Library/Developer/Xcode/DerivedData/iBeaconsTutorial-bycsyvbzsthboggzwtyjjxbuwnxu/Index/PrecompiledHeaders/iBeaconsTutorial-Prefix-gxrgorirpyqkdxcjuzhbfgzrsigb_ast/iBeaconsTutorial-Prefix.pch.pch iBeaconsTutorial/iBeaconsTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.pch iBeaconsTutorial/iBeaconsTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404753975.010288
+e404753977.312119
+r1
+xProcessPCH
+x/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.pch
+xiBeaconsTutorial/iBeaconsTutorial-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile iBeaconsTutorial/iBeaconsTutorial-Prefix.pch247"ProcessPCH Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.pch iBeaconsTutorial/iBeaconsTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7f3103370e20b841^85e94f390e20b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Prefix.pch0000000000000000^4038"ProcessPCH Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.pch iBeaconsTutorial/iBeaconsTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iisscc/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-generated-files.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-own-target-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-all-target-headers.hmap -iquote /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/iBeaconsTutorial-project-headers.hmap -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources/i386 -I/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/iBeaconsTutorial.build/Debug-iphonesimulator/iBeaconsTutorial.build/DerivedSources -F/Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.dia -MMD -MT dependencies -MF /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.d -c /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/iBeaconsTutorial/iBeaconsTutorial-Prefix.pch -o /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-bmkaxahdpcelkqelpyafhausiytw/iBeaconsTutorial-Prefix.pch.pch36"4ABCAE93-6003-4694-A9B6-183AF26AF548-
+bBCFA4B8D-A358-4CFD-82BD-FF9B17F88707
+
+CProcessPCH /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Intermediates/PrecompiledHeaders/iBeaconsTutorial-Prefix-cwtxkoejjefmegdrzzoxvcxuupxz/iBeaconsTutorial-Prefix.pch.pch iBeaconsTutorial/iBeaconsTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/iisscc/cloud/scm/github/Objective-C/iBeaconsTutorial/Build/Products/Debug-iphonesimulator/iBeaconsTutorial.app
+r0
+

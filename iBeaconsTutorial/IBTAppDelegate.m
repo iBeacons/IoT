@@ -7,6 +7,7 @@
 //
 
 #import "IBTAppDelegate.h"
+#import "IBTViewController.h"
 
 @implementation IBTAppDelegate
 
